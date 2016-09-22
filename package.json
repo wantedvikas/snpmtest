@@ -1,0 +1,27 @@
+{
+  "name": "npm-test-module",
+  "version": "0.0.1",
+  "description": "First NPM module for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wantedvikas/snpmtest.git"
+  },
+  "keywords": [
+    "fun",
+    "test"
+  ],
+  "author": "Vikas Ghodke <vikasghodkester@gmail.com> (http://www.vikasghodke.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wantedvikas/snpmtest/issues"
+  },
+  "homepage": "https://github.com/wantedvikas/snpmtest#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
