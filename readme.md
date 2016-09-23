@@ -5,7 +5,7 @@ Test NPM Module
 
 ## Installation
 
-  `npm install npm-test-module
+  `npm install npm-test-module`
 
 
 ## Tests
